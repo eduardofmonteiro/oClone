@@ -22,29 +22,6 @@ O objetivo deste projeto é construir uma réplica básica da tela de login e da
 - Styled Components
 - React Hooks
 
-## Estrutura do Projeto
-- `src/`
-  - `components/`
-    - `pages/`
-    - `Categorias.tsx`
-    - `Header.tsx`
-    - `Home.tsx`
-    - `Login.tsx`
-    - `Main.tsx`
-    - `SideBarNav.tsx`
-  - `styled/`
-    - `Botao.tsx`
-    - `Categorias.css`
-    - `Home.css`
-    - `InputBuscar.tsx`
-    - `Login.css`
-  - `App.tsx`
-
-## Boas Práticas
-- Nomes de variáveis autoexplicativos.
-- Código organizado em arquivos de componentes.
-- Limpeza do código.
-
 ## Capturas de Tela
 ### Tela de Login
 ![Tela de Login](./src/assets/Login.png)
