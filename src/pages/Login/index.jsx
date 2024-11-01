@@ -11,10 +11,10 @@ export const Login = () => {
   return (
     <LoginContainer>
       <LoginBox>
-        <Title>Login</Title>
-        <Input type="email" placeholder="Email" />
-        <Input type="password" placeholder="Senha" />
-        <Button>Entrar</Button>
+        <Title>Join Medium</Title>
+        <Button>Sign up with Google</Button>
+        <Button>Sign up with Facebook</Button>
+        <Button>Sign up with email</Button>
       </LoginBox>
     </LoginContainer>
   );
